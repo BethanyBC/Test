@@ -1,0 +1,16 @@
+{
+    "short_name": "SIR",
+    "name": "Show Impact Report",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "122x122",
+            "type": "image/x-icon"
+        }
+    ],
+    "start_url": ".",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#000000"
+}
